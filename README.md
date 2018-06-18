@@ -40,7 +40,14 @@ Da der Hauptverwendungszweck dieses Paketes das *kreative Bauen* (im lokalen LAN
 
 Das Paket enthält das Subgame *»Tutorial«*. Nach dem Start von »Minetest« im Hauptmenü unten einfach auf das Icon »Tutorial« klicken und die Welt »Tutorial World« wählen. Die Config-Datei wurde so angepasst (language = de), dass das Tutorial in *deutsch* startet. 
 
+Links:
 
+https://edulabs.de/oer/zjk98/index.html
+
+
+Einstiegswelt für den Informatik-Unterricht:
+
+http://site.nilspeters.de/wordpress/?page_id=25
 
 
 / Minetest Worlds for educational, social + cultural context
