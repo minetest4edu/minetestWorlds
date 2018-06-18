@@ -1,7 +1,12 @@
 # minetestWorlds
 Minetest Welten für den Einsatz in Kultur, Schule, Ausbildung &amp; in sozialen Projekten
 ![Minetest Beispielwelt](https://raw.githubusercontent.com/minetest4edu/minetestWorlds/master/Minetest_LazyJ's_Forge_in_survival_mode640.png)
-https://raw.githubusercontent.com/minetest4edu/minetestWorlds/master/Minetest_LazyJ's_Forge_in_survival_mode640.png
+Quelle:
+https://commons.wikimedia.org/wiki/File:Minetest_LazyJ%27s_Forge_in_survival_mode.png
+A screenshot by a Minetest player, LazyJ, showing his singleplayer world, "Forge", in survival mode. Using Minetest 0.4.13-dev (self-compile).
+Autor:LazyJ
+Lizenz: Creative Commons Attribution-Share Alike 4.0 International license.
+https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
 Hier werden Minetest-Welten zur Verfügung gestellt, die in Projekten und Workshops entstanden sind, mit dem Ziel, dass für verschiedenste Einsatzszenarien von Minetest in Bildungszusammenhängen, thematisch sortiert, Ausgangs-Welten als Start zur Vewrfügung stehen.
 
