@@ -12,10 +12,16 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.en
 Hier werden Minetest-Welten zur Verfügung gestellt, die in Projekten und Workshops entstanden sind, als Ausgangs-Welten für verschiedenste Einsatzszenarien von Minetest in Bildungszusammenhängen, thematisch sortiert ...
 
 *"Leere Welten"*, die sich generell für viele Einsatzszenarien eignen finden sich hier:
+
 ![Minetest Beispielwelt](https://www.multimediamobile.de/fileadmin/_processed_/f/5/csm_logo_multimediamobil_8326e0487c.png)
+Erstellt von:
+Norbert Thien, multimediamobil Region Süd
+Kontaktfiormular:
+https://www.multimediamobile.de/sued/kontakt-sued/anfrage-formular-sued.html
 
 https://www.multimediamobile.de/sued/materialien-sued/sued-minetest.html
-
+Bitte die Lizenhinweise für die Anleitungen beachten:
+"Verwendung dieses Skriptes - auch in Teilen - im Schulunterricht oder der Jugendarbeit nur mit dem Vermerk »© multimediamobil - Region Süd« erlaubt."
 
 Download vorkonfiguriertes »Minetest«:
 
