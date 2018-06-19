@@ -14,6 +14,7 @@ Hier werden Minetest-Welten zur Verfügung gestellt, die in Projekten und Worksh
 *Leere Welten*, die sich generell für viele Einsatzszenarien eignen finden sich hier:
 
 ![Minetest Beispielwelt](https://www.multimediamobile.de/fileadmin/_processed_/f/5/csm_logo_multimediamobil_8326e0487c.png)
+
 Erstellt von:
 
 Norbert Thien, multimediamobil Region Süd
