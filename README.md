@@ -32,11 +32,12 @@ Welt mit Mesecon-Beispielen zum Download: https://www.multimediamobile.de/filead
 ### Für Minetest-Anwender:innen mit der Ambition, eigene Mods zu programmieren:
 https://minetest-modding.weebly.com
 
-# Ausgangswelt mit 4 Beispielfragestgellungen
-Eine weitere gute Ausgangswelt mit 4 Beispielfragestgellungen findet sich bei Tobias Thiel auf den Seiten der evangelischen Akademie Wittenberg:
+# Ausgangswelt mit 4 beispielhaften Fragestgellungen
+Eine weitere gute Ausgangswelt mit 4 beispielhaften Fragestgellungen findet sich bei Tobias Thiel auf den Seiten der evangelischen Akademie Wittenberg:
 https://ev-akademie-wittenberg.de/minetestschule
 
 # Unterrichtsbeispiel für 4 Fächer
+http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip
 Um die Vielfalt der Möglichkeiten zu zeigen, wurde für den Workshop ein Szenario für vier Unterrichtsfächer kreiert. Da keine Möglichkeit der Vorbereitung bestand, wurde Minetest hier als Mittel der Abfrage des Lernstands benutzt. Nach einer Einführung in den Stoff wäre aber genauso gut denkbar, das Spiel zur Ergebnissicherung oder als Präsentationstool zu nutzen.
 
 Die Lerngruppe wird in vier Gruppen geteilt. Jeweils 2 bis 5 Jugendliche bilden eine Gruppe, die zu einem Thema arbeitet. In diesem Unterrichtsbeispiel wurden folgende vier Themen bearbeitet.
@@ -51,9 +52,6 @@ Die Lerngruppe wird in vier Gruppen geteilt. Jeweils 2 bis 5 Jugendliche bilden 
 
 Umsetzung der Aufgabenstellung
 In einer Minetestwelt wird eine Fläche mit vier Rechtecken gebaut. Jeweils an der äußeren Ecke der Rechtecke wird eine Tafel mit diesen Aufgabenstellungen gestellt. Die Schüler*innen können die Aufgabenstellung so immer wieder im Spiel (Ingame) lesen. Anschließend bauen die Mitglieder der einzelnen Gruppen gemeinsam Landschaften entsprechend der Aufgabenstellung. Dabei müssen sie sich über ihr Vorgehen absprechen - per Chat oder im Gruppengespräch. Sie können auch jederzeit sehen, was die anderen bauen. (Bei schwierigen Gruppen kann man auch die Baurechte jeweils auf das eigene Rechteck begrenzen, damit es keine Konflikte zwischen den Gruppen gibt.) Unter Download findet man die verwendet Beispielwelt, die man nutzen kann, in dem man sie in den Ordner "worlds" im Minetest-Ordner entpackt, anschließend Minetest neustartet und die Welt "LiGa" auswählt.
-
-http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip
-
 
 
 # Links:
