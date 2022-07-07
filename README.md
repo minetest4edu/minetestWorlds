@@ -11,54 +11,32 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
 Hier werden Minetest-Welten zur Verfügung gestellt, die in Projekten und Workshops entstanden sind, als Ausgangs-Welten für verschiedenste Einsatzszenarien von Minetest in Bildungszusammenhängen, thematisch sortiert ...
 
-*Leere Welten*, die sich generell für viele Einsatzszenarien eignen finden sich hier:
+# Für Anfänger:innen zusammengestelltes Paket für »Minetest« by Norbert Thien, multimediamobil – RegionSüd
+Dieses Paket enthält ein komplettes »Minetest« (Windows, 64bit) mit den wichtigsten Zusatzpaketen (»Mods«), um sich gleich in ein großes Bauabenteuer stürzen zu können.
 
-![Minetest Beispielwelt](https://www.multimediamobile.de/fileadmin/_processed_/f/5/csm_logo_multimediamobil_8326e0487c.png)
+### Download Minetest-Paket (Windows, 64bit, ca. 64 MB)
+https://www.multimediamobile.de/sued-minetest
 
-Erstellt von:
+Auf der Seite https://www.multimediamobile.de/sued-minetest gibt es außerdem eine ausführliche Präsentation, die zahlreiche Einsatz-Möglichkeiten von »Minetest« in der Schule und der Bildungsarbeit zeigt.
 
-Norbert Thien, multimediamobil Region Süd
+### Anleitung zu »Minetest«:
+Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Anleitung.pdf
 
-Kontaktfiormular:
-https://www.multimediamobile.de/sued/kontakt-sued/anfrage-formular-sued.html
+### Einfache Übungen mit »Minetest«:
+Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Aufgaben.pdf
 
+### Für Fortgeschrittene
+Coding mit »Mesecons« – das ist das »Redstone« in Minetest ...
+Welt mit Mesecon-Beispielen zum Download: https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/minetest-informatikland.zip
 
-https://www.multimediamobile.de/sued/materialien-sued/sued-minetest.html
-Bitte die Lizenhinweise für die Anleitungen beachten:
+### Für Minetest-Anwender:innen mit der Ambition, eigene Mods zu programmieren:
+https://minetest-modding.weebly.com
 
-"Verwendung dieses Skriptes - auch in Teilen - im Schulunterricht oder der Jugendarbeit nur mit dem Vermerk »© multimediamobil - Region Süd« erlaubt."
-
-
-Download vorkonfiguriertes »Minetest«:
-
-
-Download Minetest-Paket (Windows, 64bit, ca. 28 MB)
-https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/minetest-0.4.17.1-win64.zip
-
-
-Anleitung zu »Minetest«: Download
-https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Anleitung.pdf
-
-Einfache Übungen mit »Minetest«: Download
-https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Minetest-Aufgaben.pdf
-
-Welt mit einigen Mesecon-Beispielen: Download 
-https://www.multimediamobile.de/fileadmin/Daten/Dokumente/sued/material/Meseland.zip
-(u.a Mod signs_lib nötig) 
-https://github.com/minetest-mods/signs_lib
-
-Diese Minetest-Paket enthält aktuell folgende Erweiterungen: areas, basic_robot, digilines, digiline_remote, edutest, edutestChatcommands, facade, freeze, grassland, intllib, invis, mesecons, moreblocks, pkarcs, pvpplus, signs_lib, unifiedinventory, WorldEdit.
-
-Außerdem enthält das Paket eine vorbereitete Welt namens *»Bauland«*, eine *unendliche Grasslandschaft*, in der die meisten der oben aufgeführten Mods aktiviert wurden. Die allgemeine *Config-Datei* wurde so umgeschrieben, dass beim Start von »Minetest« alles auf einen Einzelspieler-Betrieb ausgerichtet ist (lässt sich nach dem Start aber leicht über die entsprechenden Checkboxen ändern).
-
-Da der Hauptverwendungszweck dieses Paketes das *kreative Bauen* (im lokalen LAN-Betrieb) ist, wurden die Rechte in der Config-Datei so gesetzt, dass beim Einsatz des Pakets als Server alle sich neu anmeldenden Mitspieler gleich loslegen können (voreingestellte Rechte: interact, shout, creative, worldedit, fly, noclip, fast). Passen Sie weitere Rechte bei Bedarf im laufenden Spiel über die Konsole einfach an (zum Beispiel /grant <spielername> settime oder /grant <spielername> teleport oder /grant <spielername> teacher für den edutest-Mod).
-
-Das Paket enthält das Subgame *»Tutorial«*. Nach dem Start von »Minetest« im Hauptmenü unten einfach auf das Icon »Tutorial« klicken und die Welt »Tutorial World« wählen. Die Config-Datei wurde so angepasst (language = de), dass das Tutorial in *deutsch* startet. 
-
+# Ausgangswelt mit 4 Beispielfragestgellungen
 Eine weitere gute Ausgangswelt mit 4 Beispielfragestgellungen findet sich bei Tobias Thiel auf den Seiten der evangelischen Akademie Wittenberg:
 https://ev-akademie-wittenberg.de/minetestschule
 
-Unterrichtsbeispiel für 4 Fächer
+# Unterrichtsbeispiel für 4 Fächer
 Um die Vielfalt der Möglichkeiten zu zeigen, wurde für den Workshop ein Szenario für vier Unterrichtsfächer kreiert. Da keine Möglichkeit der Vorbereitung bestand, wurde Minetest hier als Mittel der Abfrage des Lernstands benutzt. Nach einer Einführung in den Stoff wäre aber genauso gut denkbar, das Spiel zur Ergebnissicherung oder als Präsentationstool zu nutzen.
 
 Die Lerngruppe wird in vier Gruppen geteilt. Jeweils 2 bis 5 Jugendliche bilden eine Gruppe, die zu einem Thema arbeitet. In diesem Unterrichtsbeispiel wurden folgende vier Themen bearbeitet.
@@ -78,7 +56,7 @@ http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip
 
 
 
-Links:
+# Links:
 
 https://edulabs.de/oer/zjk98/index.html
 
